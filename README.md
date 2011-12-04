@@ -5,4 +5,4 @@ A wild repo appears!
 
 Pidgey uses 'Wing Slash'
 
-It's super effective!ASD
+It's super effective!
