@@ -1,3 +1,2 @@
 ABC
 DEF
-GHI
