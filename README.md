@@ -4,5 +4,4 @@ GHI
 JKL
 MNO
 PQR
-STV
-WXY
+STU
