@@ -6,4 +6,3 @@ MNO
 PQR
 STU
 VWX
-YZ
