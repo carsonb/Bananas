@@ -5,4 +5,3 @@ JKL
 MNO
 PQR
 STU
-VWX
