@@ -1,4 +1,3 @@
-This is the first statement
 
 This is a second statement
 
